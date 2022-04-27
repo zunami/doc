@@ -282,7 +282,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [TMate](https://tmate.io/) |  | [Upstream](https://github.com/tmate-io/tmate) |  |
 | torrelay |  |  | [Package Draft](https://github.com/matlink/torrelay_ynh) |
 | Tracim |  | [Upstream](https://github.com/tracim/tracim) |  |
-| Traccar | Modern GPS Tracking Platform | [Upstream](https://github.com/traccar/traccar) |  |
+| [Traccar](https://www.traccar.org/) | Traccar is the leading GPS tracking software. Vehicle and personal tracking. Self hosting and cloud-based solution. Real time view, reports, notifications. | [Upstream](https://github.com/traccar/traccar) |  |
 | transpay | Interface to receive and manage donations with Stripe |  | [Package Draft](https://github.com/YunoHost-Apps/transpay_ynh) |
 | transwhat | A gateway to WhatsApp from Jabber |  | [Package Draft](https://github.com/Josue-T/transwhat_ynh) |
 | [Tryton](https://www.tryton.org/) | A solid ERP system |  |  |
@@ -315,7 +315,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | youtube-dl-webui | Web interface for youtube-dl |  | [Package Draft](https://github.com/YunoHost-Apps/youtube-dl-webui_ynh) |
 | yunofav | A page of favorite links |  | [Package Draft](https://github.com/YunoHost-Apps/yunofav_ynh) |
 | [yunohost](https://yunohost.org) | YunoHost in YunoHost, crazy :D ! |  | [Package Draft](https://github.com/aymhce/yunohost_ynh) |
-| Zammad |  | [Upstream](https://github.com/zammad/zammad) |  |
+| Zammad | Zammad is the helpdesk software of the future and helps you find structure in the chaos. Connect all your communication channels | [Upstream](https://github.com/zammad/zammad) |  |
 | [zigbee2mqtt.io](https://www.zigbee2mqtt.io/) | [Zigbee](https://en.wikipedia.org/wiki/Zigbee)-to-[MQTT](https://en.wikipedia.org/wiki/MQTT) software-bridge supporting [more than 1000 Zigbee devices](https://www.zigbee2mqtt.io/information/supported_devices.html) | [Upstream](https://github.com/koenkk/zigbee2mqtt) |  |
 | [Zola](https://www.getzola.org/) | Static site generator |  |  |
 | zomburl | An URL shortening service |  | [Package Draft](https://github.com/courgette/zomburl_ynh) |
