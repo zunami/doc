@@ -125,7 +125,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [IPFS](https://ipfs.io) |  | [Upstream](https://github.com/ipfs/ipfs) | [Package Draft](https://github.com/YunoHost-Apps/ipfs_ynh) |
 | [Isso](https://posativ.org/isso) | Comment server | [Upstream](https://github.com/posativ/isso) |  |
 | jappix_mini | Jappix Mini XMPP chat website integration |  | [Package Draft](https://github.com/YunoHost-Apps/jappix_mini_ynh) |
-| [Joplin](https://joplin.cozic.net/) |  | [Upstream](https://github.com/laurent22/joplin) |  |
+| [Joplin](https://joplinapp.org/) | Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device. | [Upstream](https://github.com/laurent22/joplin) |  |
 | Joplin-web |  | [Upstream](https://github.com/foxmask/joplin-web) |  |
 | [JS Bin](https://jsbin.com/) |  | [Upstream](https://github.com/jsbin/jsbin) |  |
 | [Karaoke-forever](https://www.karaoke-forever.com/) | Organize karaoke parties | [Upstream](https://github.com/bhj/karaoke-forever) | |
