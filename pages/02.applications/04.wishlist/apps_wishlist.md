@@ -189,7 +189,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [OX Open-Xchange](https://www.open-xchange.com) | Linux groupware solution | [Upstream](https://github.com/open-xchange/) |  |
 | [OverLeaf](https://github.com/overleaf/overleaf) | open-source online real-time collaborative LaTeX editor | [Upstream](https://github.com/overleaf/overleaf) | [Package Draft](https://github.com/YunoHost-Apps/overleaf_ynh) |
 | [Padloc](https://padloc.app/) | Simple, secure password and data management for individuals and teams | [Upstream](https://github.com/padloc/padloc) | |
-| Paperless-ng |  | [Upstream](https://github.com/jonaswinkler/paperless-ng) |  |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper. | [Upstream](https://github.com/paperless-ngx/paperless-ngx) |  |
 | [Paperwork](https://paperwork.cloud) |  | [Upstream](https://github.com/paperwork/paperwork) |  |
 | [Passbolt](https://www.passbolt.com) | Password manager | [Upstream](https://github.com/passbolt) |  |
 | Pelias |  | [Upstream](https://github.com/pelias/pelias) |  |
